@@ -1,0 +1,44 @@
+  #scroller {
+        position: relative;
+    }
+    #scroller .innerScrollArea {
+        overflow: hidden;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+    #scroller ul {
+        padding: 0;
+        margin: 0;
+        position: relative;
+    }
+    #scroller li {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+        position: absolute;
+    }
+h1{
+	color:#;
+	text-align:center;
+	font-size:32px;
+	font-family:sans-serif;
+	text-align: center;
+} 
+ 
+h2{
+	color:#;
+	font-size:22px;
+	font-family:sans-serif;
+	text-align: center;
+	}
+
+ 	
+h3{
+	color:#;
+	font-size:22px;
+	font-family:sans-serif;
+	text-align: center;
+}
